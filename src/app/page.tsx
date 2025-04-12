@@ -6,8 +6,8 @@ export default function Home() {
       {/* Hero Section */}
       <section className="text-center py-20">
         <h1 className="text-4xl font-bold text-gray-900 sm:text-5xl md:text-6xl">
-          Empowering Senior Citizens with
-          <span className="text-indigo-600"> Better Health Care</span>
+          Enriching Senior Citizens with
+          <span className="text-indigo-600"> Better Choices</span>
         </h1>
         <p className="mt-6 text-xl text-gray-500 max-w-3xl mx-auto">
           A comprehensive platform connecting seniors with healthcare providers, caregivers, and essential services.
